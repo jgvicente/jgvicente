@@ -1,4 +1,20 @@
-## Olá!
+## Olá! :clap:
+
+I am an aspiring cosmologist interested in using data to uncover the universe's evolution. My primary research interest is developing new methods and numerical tools to obtain cosmological information. In my free time, I enjoy reading "boring books" and One Piece, walking in parks (only when it is not too hot!), and playing with my dog, Mel.
+
+## Research Interests
+
+- Isotropy testing;
+- Testing general relativity;
+- Developing tools to improve the efficiency of heavy calculations (integration, special functions, sampling methods, . . .) to decrease computation time.
+
+## 🔭 I’m currently working on 
+
+- My master's thesis.
+
+## 🌱 I’m currently learning ...
+
+- SQL.
 
 <!--
 **jgvicente/jgvicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
