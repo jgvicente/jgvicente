@@ -1,6 +1,6 @@
 ## Olá! :clap:
 
-I am an aspiring cosmologist interested in using data to uncover the universe's evolution. My primary research interest is developing new methods and numerical tools to obtain cosmological information. In my free time, I enjoy reading "boring books" and One Piece, walking in parks (only when it is not too hot!), and playing with my dog, Mel.
+I am an aspiring cosmologist interested in using data to uncover the universe's evolution. My primary research interest is developing new methods and numerical tools to obtain cosmological information. In my spare time, I enjoy reading "boring books", hiking, and playing with my dog, Mel.
 
 ## Research Interests
 
